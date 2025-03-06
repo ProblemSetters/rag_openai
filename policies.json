@@ -21,7 +21,7 @@
         "category": "Leave",
         "description": "The company follows a structured salary policy based on performance and experience. Annual reviews are conducted to assess salary adjustments.",
         "effective_year": 2023,
-        "active": false
+        "active": true
     },
     {
         "id": 4,
