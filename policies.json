@@ -19,7 +19,7 @@
         "id": 3,
         "title": "Paid Time Off (PTO)",
         "category": "Leave",
-        "description": "The company follows a structured salary policy based on performance and experience. Annual reviews are conducted to assess salary adjustments.",
+        "description": "The company allows default 22 Paid time off leaves on joining.",
         "effective_year": 2023,
         "active": true
     },
