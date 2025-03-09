@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1,
+    "name": "Holland-Hancock",
+    "industry": "Automotive",
+    "policies": {
+      "warranty": {
+        "standard_period": "36 months",
+        "extended_available": false,
+        "coverage": "Sense child service tell our. Between huge ground wonder.",
+        "exclusions": "Once director conference size.",
+        "claim_process": "Wrong message born pick."
+      },
+      "returns": {
+        "window": "7 days",
+        "conditions": "Agency both control remain player little arm.",
+        "restocking_fee": "10%",
+        "exceptions": "Which vote politics break over."
+      }
+    },
+    "contact": {
+      "customer_service": "(754)696-1244",
+      "email": "support@holland-hancock.com",
+      "website": "https://www.holland-hancock.com/support"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Franco, Hunter and Cooke",
+    "industry": "Toys",
+    "policies": {
+      "warranty": {
+        "standard_period": "6 months",
+        "extended_available": false,
+        "coverage": "Wife space responsibility stand result week five. Current growth almost.",
+        "exclusions": "Exist war contain information time charge address.",
+        "claim_process": "Usually from guess choice cultural. Month offer two mean federal citizen."
+      },
+      "returns": {
+        "window": "36 days",
+        "conditions": "Computer collection without something.",
+        "restocking_fee": null,
+        "exceptions": "Modern teach ten bank offer turn."
+      }
+    },
+    "contact": {
+      "customer_service": "969-235-1437x69476",
+      "email": "support@francohunterandcooke.com",
+      "website": "https://www.francohunterandcooke.com/support"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Schmidt-Woods",
+    "industry": "Furniture",
+    "policies": {
+      "warranty": {
+        "standard_period": "24 months",
+        "extended_available": false,
+        "coverage": "Toward four room ten. Again along compare carry find.",
+        "exclusions": "Candidate century record remember life rich.",
+        "claim_process": "Relate bill best nature however hair truth wrong."
+      },
+      "returns": {
+        "window": "30 days",
+        "conditions": "Across guy avoid full party sure out hard.",
+        "restocking_fee": "20%",
+        "exceptions": "Pm industry economic own leave population attention purpose."
+      }
+    },
+    "contact": {
+      "customer_service": "(793)716-9172x22699",
+      "email": "support@schmidt-woods.com",
+      "website": "https://www.schmidt-woods.com/support"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Conrad and Sons",
+    "industry": "Appliances",
+    "policies": {
+      "warranty": {
+        "standard_period": "27 months",
+        "extended_available": true,
+        "coverage": "By other development argue air official. Baby yeah response continue matter close we.",
+        "exclusions": "Fear brother member then manager not.",
+        "claim_process": "Explain rich break. Pressure matter if leg arm wind."
+      },
+      "returns": {
+        "window": "63 days",
+        "conditions": "Threat use employee century explain stand now.",
+        "restocking_fee": "15%",
+        "exceptions": "Service draw place modern."
+      }
+    },
+    "contact": {
+      "customer_service": "001-343-449-7490x3399",
+      "email": "support@conradandsons.com",
+      "website": "https://www.conradandsons.com/support"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Thomas PLC",
+    "industry": "Software",
+    "policies": {
+      "warranty": {
+        "standard_period": "8 months",
+        "extended_available": true,
+        "coverage": "Director research happy together project its it discussion. Voice respond former exactly executive increase among number.",
+        "exclusions": "Minute list position memory.",
+        "claim_process": "Develop air blood magazine. Happen soldier southern second."
+      },
+      "returns": {
+        "window": "74 days",
+        "conditions": "Reason chance she far window sell. Site within much key it tough price book.",
+        "restocking_fee": "5%",
+        "exceptions": "Begin bar picture a girl best factor."
+      }
+    },
+    "contact": {
+      "customer_service": "966-261-5645x8508",
+      "email": "support@thomasplc.com",
+      "website": "https://www.thomasplc.com/support"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Shelton, Smith and David",
+    "industry": "Jewelry",
+    "policies": {
+      "warranty": {
+        "standard_period": "11 months",
+        "extended_available": false,
+        "coverage": "Within a believe trouble painting for myself.",
+        "exclusions": "Since firm author notice east appear.",
+        "claim_process": "Describe parent also example book personal. Interesting cultural never."
+      },
+      "returns": {
+        "window": "48 days",
+        "conditions": "Term prove child. Watch information yard television medical beat.",
+        "restocking_fee": null,
+        "exceptions": "Single night want situation."
+      }
+    },
+    "contact": {
+      "customer_service": "+1-506-243-7593x64858",
+      "email": "support@sheltonsmithanddavid.com",
+      "website": "https://www.sheltonsmithanddavid.com/support"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Lopez, Elliott and Castro",
+    "industry": "Electronics",
+    "policies": {
+      "warranty": {
+        "standard_period": "3 months",
+        "extended_available": false,
+        "coverage": "Special something prevent fine writer seven beat. Strong early stock price next.",
+        "exclusions": "Land now hope field get picture design general.",
+        "claim_process": "Hope worry PM give floor go international. Maintain meet its project conference result."
+      },
+      "returns": {
+        "window": "45 days",
+        "conditions": "Approach who one toward.",
+        "restocking_fee": "15%",
+        "exceptions": "Rise environmental food police thousand."
+      }
+    },
+    "contact": {
+      "customer_service": "(981)305-9670",
+      "email": "support@lopezelliottandcastro.com",
+      "website": "https://www.lopezelliottandcastro.com/support"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Russo, Perez and Martin",
+    "industry": "Furniture",
+    "policies": {
+      "warranty": {
+        "standard_period": "60 months",
+        "extended_available": true,
+        "coverage": "Way walk statement school this far.",
+        "exclusions": "Finally pick plant road party.",
+        "claim_process": "Sell place key maintain commercial style."
+      },
+      "returns": {
+        "window": "30 days",
+        "conditions": "How attorney feel plant ask future free.",
+        "restocking_fee": "10%",
+        "exceptions": "Into human sport back year whose."
+      }
+    },
+    "contact": {
+      "customer_service": "(792)724-7301",
+      "email": "support@russoperezandmartin.com",
+      "website": "https://www.russoperezandmartin.com/support"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Jackson-Matthews",
+    "industry": "Automotive",
+    "policies": {
+      "warranty": {
+        "standard_period": "12 months",
+        "extended_available": true,
+        "coverage": "Party may or air.",
+        "exclusions": "Attack whole get adult fast.",
+        "claim_process": "Live price particular simple father analysis describe."
+      },
+      "returns": {
+        "window": "7 days",
+        "conditions": "Some me bit officer him one money civil. Fear already maintain worry consider behavior.",
+        "restocking_fee": "10%",
+        "exceptions": "Exist year health personal power here."
+      }
+    },
+    "contact": {
+      "customer_service": "4964792245",
+      "email": "support@jackson-matthews.com",
+      "website": "https://www.jackson-matthews.com/support"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Cervantes-Holmes",
+    "industry": "Automotive",
+    "policies": {
+      "warranty": {
+        "standard_period": "12 months",
+        "extended_available": false,
+        "coverage": "Outside market ability simply century cell. Culture along add dream born.",
+        "exclusions": "Hit pretty tough company success certain.",
+        "claim_process": "Upon ago leg."
+      },
+      "returns": {
+        "window": "7 days",
+        "conditions": "Air imagine character rate deal matter better management. Good dinner much cause nation without.",
+        "restocking_fee": "20%",
+        "exceptions": "Sea however consider."
+      }
+    },
+    "contact": {
+      "customer_service": "487.542.6433x6146",
+      "email": "support@cervantes-holmes.com",
+      "website": "https://www.cervantes-holmes.com/support"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Hill, Ross and Melton",
+    "industry": "Clothing",
+    "policies": {
+      "warranty": {
+        "standard_period": "17 months",
+        "extended_available": true,
+        "coverage": "Past war as improve because page effort.",
+        "exclusions": "Real that by by wear.",
+        "claim_process": "Site audience range almost."
+      },
+      "returns": {
+        "window": "10 days",
+        "conditions": "Green look firm hard data.",
+        "restocking_fee": "15%",
+        "exceptions": "Three number check article."
+      }
+    },
+    "contact": {
+      "customer_service": "754-223-6537x845",
+      "email": "support@hillrossandmelton.com",
+      "website": "https://www.hillrossandmelton.com/support"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Silva LLC",
+    "industry": "Clothing",
+    "policies": {
+      "warranty": {
+        "standard_period": "30 months",
+        "extended_available": false,
+        "coverage": "Never feeling west describe in campaign themselves. Follow set media road feel international food.",
+        "exclusions": "Necessary skill seven politics structure buy indicate.",
+        "claim_process": "Of popular try with especially tree truth now. Available everything this ago eat."
+      },
+      "returns": {
+        "window": "11 days",
+        "conditions": "Ask move couple write executive a.",
+        "restocking_fee": "15%",
+        "exceptions": "Somebody fast speak plant though always note concern."
+      }
+    },
+    "contact": {
+      "customer_service": "458.843.7813x96506",
+      "email": "support@silvallc.com",
+      "website": "https://www.silvallc.com/support"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Acevedo-Morris",
+    "industry": "Software",
+    "policies": {
+      "warranty": {
+        "standard_period": "28 months",
+        "extended_available": true,
+        "coverage": "True range money including dream cost. Fear red girl impact result between while.",
+        "exclusions": "Me life soldier.",
+        "claim_process": "A camera three same family ground. Yet should policy figure talk."
+      },
+      "returns": {
+        "window": "31 days",
+        "conditions": "According probably trial human throughout. Physical risk vote audience especially public better.",
+        "restocking_fee": "15%",
+        "exceptions": "Agree live debate glass statement pick side."
+      }
+    },
+    "contact": {
+      "customer_service": "(494)900-2503",
+      "email": "support@acevedo-morris.com",
+      "website": "https://www.acevedo-morris.com/support"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Cook Inc",
+    "industry": "Toys",
+    "policies": {
+      "warranty": {
+        "standard_period": "3 months",
+        "extended_available": false,
+        "coverage": "Fill enough him rise go. Professional chance organization six month word.",
+        "exclusions": "Military talk feel process third account.",
+        "claim_process": "Morning of discussion move tree simple raise describe. Six will when guess see beat."
+      },
+      "returns": {
+        "window": "72 days",
+        "conditions": "Everybody their scene drug billion. Model tend world assume Mrs drug such four.",
+        "restocking_fee": "10%",
+        "exceptions": "Action fish rest he."
+      }
+    },
+    "contact": {
+      "customer_service": "247-223-1197",
+      "email": "support@cookinc.com",
+      "website": "https://www.cookinc.com/support"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Castillo-Byrd",
+    "industry": "Jewelry",
+    "policies": {
+      "warranty": {
+        "standard_period": "17 months",
+        "extended_available": false,
+        "coverage": "You executive one event hear adult song a. Music heart full wind.",
+        "exclusions": "Next rest several north drive direction yard.",
+        "claim_process": "American again present heart."
+      },
+      "returns": {
+        "window": "22 days",
+        "conditions": "Catch letter in.",
+        "restocking_fee": "5%",
+        "exceptions": "Away image structure into."
+      }
+    },
+    "contact": {
+      "customer_service": "903.677.3269x126",
+      "email": "support@castillo-byrd.com",
+      "website": "https://www.castillo-byrd.com/support"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Powers PLC",
+    "industry": "Electronics",
+    "policies": {
+      "warranty": {
+        "standard_period": "6 months",
+        "extended_available": true,
+        "coverage": "Election of available attack partner data section drop. Suddenly admit human there conference put.",
+        "exclusions": "Impact data board explain cold really head.",
+        "claim_process": "Pm wear trouble student."
+      },
+      "returns": {
+        "window": "14 days",
+        "conditions": "Continue in not middle.",
+        "restocking_fee": "20%",
+        "exceptions": "Trip travel three."
+      }
+    },
+    "contact": {
+      "customer_service": "600-415-9223x27897",
+      "email": "support@powersplc.com",
+      "website": "https://www.powersplc.com/support"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Green-Graham",
+    "industry": "Sporting Goods",
+    "policies": {
+      "warranty": {
+        "standard_period": "16 months",
+        "extended_available": true,
+        "coverage": "Choose everything region near push forget. Usually part pass direction.",
+        "exclusions": "Response teach since yet more newspaper hit.",
+        "claim_process": "Growth believe environment participant. Board final successful usually western."
+      },
+      "returns": {
+        "window": "77 days",
+        "conditions": "Couple collection wide like job growth start. While live money successful.",
+        "restocking_fee": "15%",
+        "exceptions": "Talk organization think factor south position indeed."
+      }
+    },
+    "contact": {
+      "customer_service": "+1-961-463-9070x56529",
+      "email": "support@green-graham.com",
+      "website": "https://www.green-graham.com/support"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Franklin, Goodwin and Johnson",
+    "industry": "Electronics",
+    "policies": {
+      "warranty": {
+        "standard_period": "12 months",
+        "extended_available": false,
+        "coverage": "Us summer threat analysis.",
+        "exclusions": "Military collection method change activity there event best.",
+        "claim_process": "National do term mother."
+      },
+      "returns": {
+        "window": "30 days",
+        "conditions": "Performance team food girl central. Green check including push.",
+        "restocking_fee": "10%",
+        "exceptions": "Deep answer thank nor financial phone."
+      }
+    },
+    "contact": {
+      "customer_service": "001-301-640-4546",
+      "email": "support@franklingoodwinandjohnson.com",
+      "website": "https://www.franklingoodwinandjohnson.com/support"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Smith-Robinson",
+    "industry": "Sporting Goods",
+    "policies": {
+      "warranty": {
+        "standard_period": "12 months",
+        "extended_available": true,
+        "coverage": "Story beyond above issue many.",
+        "exclusions": "Often argue movie.",
+        "claim_process": "Middle allow crime similar popular."
+      },
+      "returns": {
+        "window": "28 days",
+        "conditions": "Former arm modern likely paper child.",
+        "restocking_fee": null,
+        "exceptions": "Require hand near individual."
+      }
+    },
+    "contact": {
+      "customer_service": "(485)224-9916x503",
+      "email": "support@smith-robinson.com",
+      "website": "https://www.smith-robinson.com/support"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Brown-Martin",
+    "industry": "Jewelry",
+    "policies": {
+      "warranty": {
+        "standard_period": "8 months",
+        "extended_available": true,
+        "coverage": "Successful nearly candidate save experience next. Later little test describe conference control.",
+        "exclusions": "Democratic address common year sound ability.",
+        "claim_process": "Oil water hospital including field pick."
+      },
+      "returns": {
+        "window": "86 days",
+        "conditions": "Forward president crime management.",
+        "restocking_fee": null,
+        "exceptions": "Sense live spend financial show."
+      }
+    },
+    "contact": {
+      "customer_service": "+1-894-445-4514x78917",
+      "email": "support@brown-martin.com",
+      "website": "https://www.brown-martin.com/support"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Gonzalez, Clements and Hanson",
+    "industry": "Appliances",
+    "policies": {
+      "warranty": {
+        "standard_period": "6 months",
+        "extended_available": true,
+        "coverage": "For also apply detail allow. Name half raise worry listen.",
+        "exclusions": "Tend wall political child business.",
+        "claim_process": "Hand car performance window second listen. Several trade series someone."
+      },
+      "returns": {
+        "window": "51 days",
+        "conditions": "Southern father wait region some try. Hand born event call if.",
+        "restocking_fee": "20%",
+        "exceptions": "Administration buy offer relationship finish recent pretty."
+      }
+    },
+    "contact": {
+      "customer_service": "001-824-896-3208x323",
+      "email": "support@gonzalezclementsandhanson.com",
+      "website": "https://www.gonzalezclementsandhanson.com/support"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Small, Lee and Dillon",
+    "industry": "Home Goods",
+    "policies": {
+      "warranty": {
+        "standard_period": "22 months",
+        "extended_available": false,
+        "coverage": "Room your magazine clearly note factor defense.",
+        "exclusions": "Local especially billion positive.",
+        "claim_process": "Religious move candidate economic notice assume at."
+      },
+      "returns": {
+        "window": "12 days",
+        "conditions": "Listen work analysis why create return those. Eye week story smile.",
+        "restocking_fee": "10%",
+        "exceptions": "Husband probably behavior cold major young."
+      }
+    },
+    "contact": {
+      "customer_service": "3066042471",
+      "email": "support@smallleeanddillon.com",
+      "website": "https://www.smallleeanddillon.com/support"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Turner, Floyd and Silva",
+    "industry": "Electronics",
+    "policies": {
+      "warranty": {
+        "standard_period": "24 months",
+        "extended_available": true,
+        "coverage": "Republican moment threat media bar. Commercial price study catch arm before age once.",
+        "exclusions": "Senior country argue century bit.",
+        "claim_process": "More size create him carry option."
+      },
+      "returns": {
+        "window": "14 days",
+        "conditions": "Race support above western discuss.",
+        "restocking_fee": "10%",
+        "exceptions": "Ahead building boy culture."
+      }
+    },
+    "contact": {
+      "customer_service": "768.853.1754x5165",
+      "email": "support@turnerfloydandsilva.com",
+      "website": "https://www.turnerfloydandsilva.com/support"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Marquez, Robinson and Davis",
+    "industry": "Toys",
+    "policies": {
+      "warranty": {
+        "standard_period": "33 months",
+        "extended_available": true,
+        "coverage": "Everybody condition lead.",
+        "exclusions": "Chair ok surface week reality music tax.",
+        "claim_process": "Body page rather compare water production. Look figure mouth evidence write."
+      },
+      "returns": {
+        "window": "88 days",
+        "conditions": "Nearly green back suffer. More likely citizen range join operation.",
+        "restocking_fee": null,
+        "exceptions": "Pressure collection treat improve member TV."
+      }
+    },
+    "contact": {
+      "customer_service": "001-415-609-2685",
+      "email": "support@marquezrobinsonanddavis.com",
+      "website": "https://www.marquezrobinsonanddavis.com/support"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Wagner, Sanchez and Mooney",
+    "industry": "Toys",
+    "policies": {
+      "warranty": {
+        "standard_period": "7 months",
+        "extended_available": false,
+        "coverage": "Network world attack red unit exist carry dream. Blood treatment statement shoulder material professional trouble go.",
+        "exclusions": "Exactly same seat fine shoulder law clearly.",
+        "claim_process": "Recently environmental trip evidence type detail model. Successful staff individual fund laugh apply myself protect."
+      },
+      "returns": {
+        "window": "88 days",
+        "conditions": "Woman mission anything gas evidence space. Deal third until message.",
+        "restocking_fee": null,
+        "exceptions": "Realize scientist watch consider there."
+      }
+    },
+    "contact": {
+      "customer_service": "(293)792-1425",
+      "email": "support@wagnersanchezandmooney.com",
+      "website": "https://www.wagnersanchezandmooney.com/support"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Simmons Ltd",
+    "industry": "Sporting Goods",
+    "policies": {
+      "warranty": {
+        "standard_period": "22 months",
+        "extended_available": false,
+        "coverage": "Economy country effort budget. Price heavy key century continue.",
+        "exclusions": "Relate throughout specific several.",
+        "claim_process": "Sense enough itself street sense."
+      },
+      "returns": {
+        "window": "79 days",
+        "conditions": "Somebody major line statement heavy speech four. Upon admit civil probably old soldier force.",
+        "restocking_fee": "10%",
+        "exceptions": "Trial exist admit explain Mr everybody."
+      }
+    },
+    "contact": {
+      "customer_service": "577.873.9239x0389",
+      "email": "support@simmonsltd.com",
+      "website": "https://www.simmonsltd.com/support"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Jones PLC",
+    "industry": "Appliances",
+    "policies": {
+      "warranty": {
+        "standard_period": "21 months",
+        "extended_available": true,
+        "coverage": "Whole both what as senior you learn. Region government draw garden thing.",
+        "exclusions": "Make blood card change card.",
+        "claim_process": "Degree analysis address prevent."
+      },
+      "returns": {
+        "window": "32 days",
+        "conditions": "Letter dream involve identify federal. At likely sing east culture church together.",
+        "restocking_fee": null,
+        "exceptions": "Spring pressure minute hit."
+      }
+    },
+    "contact": {
+      "customer_service": "464-255-2472",
+      "email": "support@jonesplc.com",
+      "website": "https://www.jonesplc.com/support"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Gonzalez, Gordon and Johnson",
+    "industry": "Furniture",
+    "policies": {
+      "warranty": {
+        "standard_period": "12 months",
+        "extended_available": true,
+        "coverage": "Wish dog serious lawyer service face stay. Nature vote develop former spend wide.",
+        "exclusions": "Word property office hand writer.",
+        "claim_process": "Fine live determine guess respond. Where start city."
+      },
+      "returns": {
+        "window": "60 days",
+        "conditions": "Send manager challenge.",
+        "restocking_fee": "10%",
+        "exceptions": "Prevent appear guess radio relationship."
+      }
+    },
+    "contact": {
+      "customer_service": "652.662.7491x9009",
+      "email": "support@gonzalezgordonandjohnson.com",
+      "website": "https://www.gonzalezgordonandjohnson.com/support"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Rivera-Mcneil",
+    "industry": "Jewelry",
+    "policies": {
+      "warranty": {
+        "standard_period": "23 months",
+        "extended_available": false,
+        "coverage": "Treatment special oil new bit opportunity. Effort water employee pattern.",
+        "exclusions": "Month summer poor property.",
+        "claim_process": "Hotel front political within card."
+      },
+      "returns": {
+        "window": "21 days",
+        "conditions": "Today data first reduce call including behind.",
+        "restocking_fee": "10%",
+        "exceptions": "Myself do him film probably image."
+      }
+    },
+    "contact": {
+      "customer_service": "395.449.8059x597",
+      "email": "support@rivera-mcneil.com",
+      "website": "https://www.rivera-mcneil.com/support"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Brown LLC",
+    "industry": "Automotive",
+    "policies": {
+      "warranty": {
+        "standard_period": "24 months",
+        "extended_available": true,
+        "coverage": "Public southern sometimes parent possible. Truth stage month five.",
+        "exclusions": "Identify suggest protect popular small visit sport picture.",
+        "claim_process": "Congress almost lot coach could employee."
+      },
+      "returns": {
+        "window": "30 days",
+        "conditions": "Brother rock thank a. Recently these job computer spend.",
+        "restocking_fee": "10%",
+        "exceptions": "Admit it many face note."
+      }
+    },
+    "contact": {
+      "customer_service": "+1-979-806-2895x880",
+      "email": "support@brownllc.com",
+      "website": "https://www.brownllc.com/support"
+    }
+  }
+]
